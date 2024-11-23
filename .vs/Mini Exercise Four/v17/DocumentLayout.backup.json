@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Four\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69BA59D7-B19C-7DAD-30A2-56B87665961B}|Assembly-CSharp.csproj|c:\\users\\wilsonw\\workspace\\nycu\\class\\3d game programming\\mini exercise\\mini exercise four\\assets\\scripts\\ballsmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BA59D7-B19C-7DAD-30A2-56B87665961B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ballsmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BA59D7-B19C-7DAD-30A2-56B87665961B}|Assembly-CSharp.csproj|c:\\users\\wilsonw\\workspace\\nycu\\class\\3d game programming\\mini exercise\\mini exercise four\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BA59D7-B19C-7DAD-30A2-56B87665961B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BA59D7-B19C-7DAD-30A2-56B87665961B}|Assembly-CSharp.csproj|C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Four\\assets\\scripts\\path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BA59D7-B19C-7DAD-30A2-56B87665961B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BA59D7-B19C-7DAD-30A2-56B87665961B}|Assembly-CSharp.csproj|C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Four\\assets\\scripts\\astar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BA59D7-B19C-7DAD-30A2-56B87665961B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\astar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BallsMgr.cs",
+              "DocumentMoniker": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Four\\Assets\\Scripts\\BallsMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BallsMgr.cs",
+              "ToolTip": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Four\\Assets\\Scripts\\BallsMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BallsMgr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:28:59.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AStar.cs",
+              "DocumentMoniker": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Four\\Assets\\Scripts\\AStar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AStar.cs",
+              "ToolTip": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Four\\Assets\\Scripts\\AStar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AStar.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAADwv+UAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:50:36.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Path.cs",
+              "DocumentMoniker": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Four\\Assets\\Scripts\\Path.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Path.cs",
+              "ToolTip": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Four\\Assets\\Scripts\\Path.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Path.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:50:14.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Four\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\WilsonW\\workspace\\NYCU\\class\\3D Game Programming\\Mini Exercise\\Mini Exercise Four\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAYwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:29:24.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
